@@ -5,3 +5,41 @@ body {
 p {
     background-color: yellow;
 }
+.rojo,
+.azul,
+.verde,
+.negro {
+    color: white;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.verde {
+    background-color: green;
+}
+
+.negro {
+    background-color: black;
+}
+
+#carouselExampleControls {
+    width: 400px;
+    margin: auto;
+
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+}
+
+.carousel-control-prev-icon {
+    background-color: black;
+}
+
+
